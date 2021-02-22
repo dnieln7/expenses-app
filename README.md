@@ -6,4 +6,4 @@ Manage your expenses
 
 * Add items with it's name, amount and date
 * View your last week expenses in a bar graph
-* Full responsive layout
+* Responsive layout
